@@ -43,7 +43,4 @@ This is the frontend for the Secure Banking App built using React and Vite. It p
 - Real-time chat interface.
 
 ## Running Tests
-- Add your test instructions here.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- Future implementation
